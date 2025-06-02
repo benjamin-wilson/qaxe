@@ -8012,7 +8012,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 173.99 127 0)
 			(effects
 				(font
@@ -8139,7 +8139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 196.85 252.73 0)
 			(effects
 				(font
@@ -8148,7 +8148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 196.85 252.73 0)
 			(effects
 				(font
@@ -8166,7 +8166,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 196.85 252.73 0)
 			(effects
 				(font
@@ -8175,7 +8175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 196.85 252.73 0)
 			(effects
 				(font
@@ -8261,7 +8261,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 92.71 203.2 0)
 			(effects
 				(font
@@ -8811,6 +8811,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 172.72 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8a5dc83b-8617-4717-9df0-c0765b2782af")
 		)
@@ -8956,7 +8964,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 99.06 127 0)
 			(effects
 				(font
@@ -9175,7 +9183,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 185.42 41.91 0)
 			(effects
 				(font
@@ -9317,6 +9325,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402FR-071KL"
+			(at 185.42 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9638,7 +9654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 187.96 252.73 0)
 			(effects
 				(font
@@ -9647,7 +9663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 187.96 252.73 0)
 			(effects
 				(font
@@ -9665,7 +9681,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 187.96 252.73 0)
 			(effects
 				(font
@@ -9674,7 +9690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 187.96 252.73 0)
 			(effects
 				(font
@@ -9733,7 +9749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 222.25 237.49 0)
 			(effects
 				(font
@@ -9742,7 +9758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 222.25 237.49 0)
 			(effects
 				(font
@@ -9760,7 +9776,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 222.25 237.49 0)
 			(effects
 				(font
@@ -9769,7 +9785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 222.25 237.49 0)
 			(effects
 				(font
@@ -10478,7 +10494,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 173.99 41.91 0)
 			(effects
 				(font
@@ -10633,7 +10649,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 76.2 203.2 0)
 			(effects
 				(font
@@ -10768,7 +10784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 218.44 224.79 0)
 			(effects
 				(font
@@ -10777,7 +10793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 218.44 224.79 0)
 			(effects
 				(font
@@ -10795,7 +10811,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 218.44 224.79 0)
 			(effects
 				(font
@@ -10804,7 +10820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 218.44 224.79 0)
 			(effects
 				(font
@@ -11032,7 +11048,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 242.57 127 0)
 			(effects
 				(font
@@ -11106,6 +11122,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 172.72 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11320,7 +11344,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 166.37 203.2 0)
 			(effects
 				(font
@@ -11380,7 +11404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 191.77 224.79 0)
 			(effects
 				(font
@@ -11389,7 +11413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 191.77 224.79 0)
 			(effects
 				(font
@@ -11407,7 +11431,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 191.77 224.79 0)
 			(effects
 				(font
@@ -11416,7 +11440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 191.77 224.79 0)
 			(effects
 				(font
@@ -11904,7 +11928,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 147.32 127 0)
 			(effects
 				(font
@@ -11964,7 +11988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -11973,7 +11997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -11991,7 +12015,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -12000,7 +12024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -12059,7 +12083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 205.74 252.73 0)
 			(effects
 				(font
@@ -12068,7 +12092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 205.74 252.73 0)
 			(effects
 				(font
@@ -12086,7 +12110,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 205.74 252.73 0)
 			(effects
 				(font
@@ -12095,7 +12119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 205.74 252.73 0)
 			(effects
 				(font
@@ -12236,6 +12260,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 96.52 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "168a7929-3e26-45f4-97ba-6fd9e5b7e0d1")
 		)
@@ -12314,7 +12346,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 185.42 127 0)
 			(effects
 				(font
@@ -12617,7 +12649,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 99.06 203.2 0)
 			(effects
 				(font
@@ -12704,7 +12736,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 228.6 41.91 0)
 			(effects
 				(font
@@ -12791,7 +12823,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 318.77 49.53 0)
 			(effects
 				(font
@@ -13274,7 +13306,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 40.64 73.66 0)
 			(effects
 				(font
@@ -13436,7 +13468,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 152.4 203.2 0)
 			(effects
 				(font
@@ -13561,7 +13593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 215.9 237.49 0)
 			(effects
 				(font
@@ -13570,7 +13602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 215.9 237.49 0)
 			(effects
 				(font
@@ -13588,7 +13620,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 215.9 237.49 0)
 			(effects
 				(font
@@ -13597,7 +13629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 215.9 237.49 0)
 			(effects
 				(font
@@ -14061,7 +14093,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 266.7 127 0)
 			(effects
 				(font
@@ -14253,7 +14285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 207.01 237.49 0)
 			(effects
 				(font
@@ -14262,7 +14294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 207.01 237.49 0)
 			(effects
 				(font
@@ -14280,7 +14312,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 207.01 237.49 0)
 			(effects
 				(font
@@ -14289,7 +14321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 207.01 237.49 0)
 			(effects
 				(font
@@ -14707,7 +14739,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 147.32 41.91 0)
 			(effects
 				(font
@@ -14861,7 +14893,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 204.47 41.91 0)
 			(effects
 				(font
@@ -14921,7 +14953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 215.9 265.43 0)
 			(effects
 				(font
@@ -14930,7 +14962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 215.9 265.43 0)
 			(effects
 				(font
@@ -14948,7 +14980,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 215.9 265.43 0)
 			(effects
 				(font
@@ -14957,7 +14989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 215.9 265.43 0)
 			(effects
 				(font
@@ -15118,7 +15150,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 71.12 203.2 0)
 			(effects
 				(font
@@ -15205,7 +15237,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 87.63 203.2 0)
 			(effects
 				(font
@@ -15332,7 +15364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -15341,7 +15373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -15359,7 +15391,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -15368,7 +15400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -15454,7 +15486,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 127 127 0)
 			(effects
 				(font
@@ -15541,7 +15573,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 99.06 41.91 0)
 			(effects
 				(font
@@ -15617,6 +15649,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 262.89 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "778496d1-d64f-40e9-8b46-d6dbeee50d56")
 		)
@@ -15683,6 +15723,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402FR-071KL"
+			(at 102.87 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15819,6 +15867,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 256.54 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c53fe1ba-2ad9-497f-8f45-a8624d146df8")
 		)
@@ -15897,7 +15953,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 161.29 127 0)
 			(effects
 				(font
@@ -16427,7 +16483,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -16799,7 +16855,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 205.74 127 0)
 			(effects
 				(font
@@ -16859,7 +16915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -16868,7 +16924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -16886,7 +16942,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -16895,7 +16951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -16981,7 +17037,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 255.27 127 0)
 			(effects
 				(font
@@ -17201,7 +17257,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 121.92 203.2 0)
 			(effects
 				(font
@@ -17564,7 +17620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 222.25 265.43 0)
 			(effects
 				(font
@@ -17573,7 +17629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 222.25 265.43 0)
 			(effects
 				(font
@@ -17591,7 +17647,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 222.25 265.43 0)
 			(effects
 				(font
@@ -17600,7 +17656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 222.25 265.43 0)
 			(effects
 				(font
@@ -17820,7 +17876,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 228.6 127 0)
 			(effects
 				(font
@@ -17907,7 +17963,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 64.77 203.2 0)
 			(effects
 				(font
@@ -18034,7 +18090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 220.98 252.73 0)
 			(effects
 				(font
@@ -18043,7 +18099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 220.98 252.73 0)
 			(effects
 				(font
@@ -18061,7 +18117,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 220.98 252.73 0)
 			(effects
 				(font
@@ -18070,7 +18126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 220.98 252.73 0)
 			(effects
 				(font
@@ -18355,7 +18411,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 82.55 203.2 0)
 			(effects
 				(font
@@ -18591,7 +18647,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "LFSPXO076024REEL"
+		(property "PARTNO" "SX3M25.000E20F30THN"
 			(at 59.69 68.58 0)
 			(effects
 				(font
@@ -18749,7 +18805,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 104.14 203.2 0)
 			(effects
 				(font
@@ -19303,7 +19359,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 87.63 127 0)
 			(effects
 				(font
@@ -19390,7 +19446,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 129.54 203.2 0)
 			(effects
 				(font
@@ -19553,7 +19609,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 137.16 203.2 0)
 			(effects
 				(font
@@ -19707,7 +19763,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 114.3 203.2 0)
 			(effects
 				(font
@@ -19767,7 +19823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 207.01 265.43 0)
 			(effects
 				(font
@@ -19776,7 +19832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 207.01 265.43 0)
 			(effects
 				(font
@@ -19794,7 +19850,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 207.01 265.43 0)
 			(effects
 				(font
@@ -19803,7 +19859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 207.01 265.43 0)
 			(effects
 				(font
@@ -19956,7 +20012,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 87.63 41.91 0)
 			(effects
 				(font
@@ -20043,7 +20099,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 312.42 49.53 0)
 			(effects
 				(font
@@ -20103,7 +20159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 200.66 224.79 0)
 			(effects
 				(font
@@ -20112,7 +20168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 200.66 224.79 0)
 			(effects
 				(font
@@ -20130,7 +20186,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 200.66 224.79 0)
 			(effects
 				(font
@@ -20139,7 +20195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 200.66 224.79 0)
 			(effects
 				(font
@@ -20424,7 +20480,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 127 41.91 0)
 			(effects
 				(font
@@ -20641,7 +20697,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 110.49 41.91 0)
 			(effects
 				(font
@@ -20701,7 +20757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 224.79 224.79 0)
 			(effects
 				(font
@@ -20710,7 +20766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 224.79 224.79 0)
 			(effects
 				(font
@@ -20728,7 +20784,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 224.79 224.79 0)
 			(effects
 				(font
@@ -20737,7 +20793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 224.79 224.79 0)
 			(effects
 				(font
@@ -20823,7 +20879,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 110.49 127 0)
 			(effects
 				(font
@@ -20950,7 +21006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 214.63 252.73 0)
 			(effects
 				(font
@@ -20959,7 +21015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 214.63 252.73 0)
 			(effects
 				(font
@@ -20977,7 +21033,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 214.63 252.73 0)
 			(effects
 				(font
@@ -20986,7 +21042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 214.63 252.73 0)
 			(effects
 				(font
@@ -21062,6 +21118,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402FR-071KL"
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4a9c434-b2e6-4693-8ee4-bff959866b37")
 		)
@@ -21130,6 +21194,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402FR-071KL"
+			(at 102.87 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "889d0ecc-e0d1-4155-a1d0-24a4185b6b79")
 		)
@@ -21181,7 +21253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 198.12 265.43 0)
 			(effects
 				(font
@@ -21190,7 +21262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 198.12 265.43 0)
 			(effects
 				(font
@@ -21208,7 +21280,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 198.12 265.43 0)
 			(effects
 				(font
@@ -21217,7 +21289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 198.12 265.43 0)
 			(effects
 				(font
@@ -21303,7 +21375,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 266.7 41.91 0)
 			(effects
 				(font
@@ -21363,7 +21435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 209.55 224.79 0)
 			(effects
 				(font
@@ -21372,7 +21444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" ""
 			(at 209.55 224.79 0)
 			(effects
 				(font
@@ -21390,7 +21462,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-18214-1-ND"
+		(property "DK" ""
 			(at 209.55 224.79 0)
 			(effects
 				(font
@@ -21399,7 +21471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" ""
 			(at 209.55 224.79 0)
 			(effects
 				(font
@@ -21485,7 +21557,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 255.27 41.91 0)
 			(effects
 				(font
@@ -21572,7 +21644,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "EMK105BJ105MV-F"
 			(at 161.29 41.91 0)
 			(effects
 				(font

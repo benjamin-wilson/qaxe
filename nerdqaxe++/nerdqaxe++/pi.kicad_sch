@@ -5452,7 +5452,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 253.365 83.185 0)
 			(effects
 				(font
@@ -5946,7 +5946,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 253.365 55.245 0)
 			(effects
 				(font
@@ -6033,7 +6033,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 192.405 106.045 0)
 			(effects
 				(font
@@ -7904,6 +7904,14 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "RC0402JR-0710KL"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "18728860-d713-41a8-9698-08df870eea6a")
 		)
@@ -8349,7 +8357,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 144.145 161.925 0)
 			(effects
 				(font
@@ -9462,7 +9470,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "CL05A104KO5NNNC"
 			(at 200.025 106.045 0)
 			(effects
 				(font
