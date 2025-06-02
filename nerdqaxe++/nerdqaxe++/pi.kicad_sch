@@ -5407,7 +5407,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 254.635 86.995 0)
 			(effects
 				(font
@@ -5416,7 +5416,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 253.365 83.185 0)
 			(effects
 				(font
@@ -5540,7 +5540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "0470531000"
+		(property "OrderNr" "WM4330-ND"
 			(at 266.065 150.495 0)
 			(effects
 				(font
@@ -5549,13 +5549,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "WM4330-ND"
+		(property "PARTNO" "0470531000"
 			(at 266.065 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5707,7 +5706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TMP1075NDRLR"
+		(property "OrderNr" "296-TMP1075NDRLRCT-ND"
 			(at 225.425 56.515 0)
 			(effects
 				(font
@@ -5716,13 +5715,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "296-TMP1075NDRLRCT-ND"
+		(property "PARTNO" "TMP1075NDRLR"
 			(at 225.425 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5903,7 +5901,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 254.635 59.055 0)
 			(effects
 				(font
@@ -5912,7 +5910,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 253.365 55.245 0)
 			(effects
 				(font
@@ -5990,7 +5988,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 193.675 109.855 0)
 			(effects
 				(font
@@ -5999,7 +5997,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 192.405 106.045 0)
 			(effects
 				(font
@@ -6154,7 +6152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 257.683 113.665 90)
 			(effects
 				(font
@@ -6590,7 +6588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TMP1075NDRLR"
+		(property "OrderNr" "296-TMP1075NDRLRCT-ND"
 			(at 225.425 84.455 0)
 			(effects
 				(font
@@ -6599,13 +6597,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "296-TMP1075NDRLRCT-ND"
+		(property "PARTNO" "TMP1075NDRLR"
 			(at 225.425 84.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6975,7 +6972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "61301211821"
+		(property "OrderNr" "732-61301211821-ND"
 			(at 27.94 190.5 0)
 			(effects
 				(font
@@ -6984,13 +6981,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "732-61301211821-ND"
+		(property "PARTNO" "61301211821"
 			(at 27.94 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "4"
@@ -7145,7 +7141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "EMC2302-1-AIZL-TR"
+		(property "OrderNr" "EMC2302-1-AIZL-CT-ND"
 			(at 159.385 139.065 0)
 			(effects
 				(font
@@ -7154,13 +7150,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "EMC2302-1-AIZL-CT-ND"
+		(property "PARTNO" "EMC2302-1-AIZL-TR"
 			(at 159.385 139.065 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "10"
@@ -7266,7 +7261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PH1-12-UA"
+		(property "OrderNr" "2057-PH1-12-UA-ND"
 			(at 60.325 190.5 0)
 			(effects
 				(font
@@ -7275,13 +7270,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "2057-PH1-12-UA-ND"
+		(property "PARTNO" "PH1-12-UA"
 			(at 60.325 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "4"
@@ -7393,7 +7387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "61301211821"
+		(property "OrderNr" "732-61301211821-ND"
 			(at 27.94 181.61 0)
 			(effects
 				(font
@@ -7402,13 +7396,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "732-61301211821-ND"
+		(property "PARTNO" "61301211821"
 			(at 27.94 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "4"
@@ -7884,7 +7877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 84.963 75.565 90)
 			(effects
 				(font
@@ -8122,7 +8115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "0470531000"
+		(property "OrderNr" "WM4330-ND"
 			(at 266.065 120.015 0)
 			(effects
 				(font
@@ -8131,13 +8124,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "WM4330-ND"
+		(property "PARTNO" "0470531000"
 			(at 266.065 120.015 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8312,7 +8304,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 145.415 165.735 0)
 			(effects
 				(font
@@ -8321,7 +8313,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 144.145 161.925 0)
 			(effects
 				(font
@@ -8594,7 +8586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "1N5819HWQ-7-F"
+		(property "OrderNr" "31-1N5819HWQ-7-FCT-ND"
 			(at 109.855 99.695 0)
 			(effects
 				(font
@@ -8603,13 +8595,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "31-1N5819HWQ-7-FCT-ND"
+		(property "PARTNO" "1N5819HWQ-7-F"
 			(at 109.855 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8956,7 +8947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TXU0102DCUR"
+		(property "OrderNr" "296-TXU0102DCURCT-ND"
 			(at 210.185 133.985 0)
 			(effects
 				(font
@@ -8965,13 +8956,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "296-TXU0102DCURCT-ND"
+		(property "PARTNO" "TXU0102DCUR"
 			(at 210.185 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "6"
@@ -9235,7 +9225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 257.683 144.145 90)
 			(effects
 				(font
@@ -9427,7 +9417,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 201.295 109.855 0)
 			(effects
 				(font
@@ -9436,7 +9426,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 200.025 106.045 0)
 			(effects
 				(font
@@ -9560,7 +9550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PH1-12-UA"
+		(property "OrderNr" "2057-PH1-12-UA-ND"
 			(at 60.325 181.61 0)
 			(effects
 				(font
@@ -9569,13 +9559,12 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "2057-PH1-12-UA-ND"
+		(property "PARTNO" "PH1-12-UA"
 			(at 60.325 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "4"
