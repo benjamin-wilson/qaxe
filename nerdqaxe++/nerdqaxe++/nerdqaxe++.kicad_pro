@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.03
         }
       },
       "diff_pair_dimensions": [
@@ -634,7 +634,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -740,9 +740,15 @@
         },
         {
           "group_by": false,
+          "label": "Manufacturer ",
+          "name": "Manufacturer ",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
