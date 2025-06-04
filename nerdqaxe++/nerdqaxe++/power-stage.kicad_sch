@@ -3057,7 +3057,7 @@
 				)
 			)
 		)
-		(property "Value" "1R"
+		(property "Value" "1R/0.5w"
 			(at 106.045 106.045 90)
 			(effects
 				(font
@@ -3065,7 +3065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 106.045 100.457 90)
 			(effects
 				(font
@@ -3110,15 +3110,25 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CRCW08051R00FKEAHP"
+		(property "PARTNO" "SR0805FR-471RL"
 			(at 106.045 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer " "Vishay Intertech"
+			(at 106.045 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C873764"
 			(at 106.045 102.235 0)
 			(effects
 				(font
@@ -5231,6 +5241,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer " "YAGEO"
@@ -5239,6 +5250,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC" "C60474"
@@ -5247,6 +5259,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5838,6 +5851,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer " "Murata Electronics"
@@ -5846,6 +5860,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC" "C385032"
@@ -5854,6 +5869,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6445,6 +6461,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer " "	 Texas Instruments"
@@ -6453,6 +6470,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "11"
@@ -7585,7 +7603,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1R"
+		(property "Value" "1R/0.5w"
 			(at 151.765 114.3 90)
 			(effects
 				(font
@@ -7594,7 +7612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 156.083 111.125 90)
 			(effects
 				(font
@@ -7639,7 +7657,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CRCW08051R00FKEAHP"
+		(property "PARTNO" "SR0805FR-471RL"
 			(at 154.305 111.125 0)
 			(effects
 				(font
@@ -7655,6 +7673,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C873764"
+			(at 154.305 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7833,6 +7859,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer " "YAGEO"
@@ -7841,6 +7868,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC" "C60474"
@@ -7849,6 +7877,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
