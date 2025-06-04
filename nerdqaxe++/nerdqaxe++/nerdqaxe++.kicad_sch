@@ -1229,6 +1229,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1440,6 +1441,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1605,6 +1607,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -1689,6 +1692,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1764,6 +1768,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -1853,7 +1858,7 @@
 		(dnp no)
 		(uuid "78b8dad5-172a-4fbb-a0fa-b5f4c2b863db")
 		(property "Reference" "D1"
-			(at 50.165 62.23 0)
+			(at 52.324 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1861,16 +1866,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SMBJ12A"
-			(at 52.705 55.88 0)
+		(property "Value" "5KPxxA"
+			(at 58.166 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMB"
+		(property "Footprint" "Diode_THT:D_P600_R-6_P20.00mm_Horizontal"
 			(at 50.165 58.42 0)
 			(effects
 				(font
@@ -1879,7 +1883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
 			(at 55.245 57.15 0)
 			(effects
 				(font
@@ -1888,7 +1892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "5000W unidirectional Transient Voltage Suppressor, P-600"
 			(at 55.245 58.42 0)
 			(effects
 				(font
@@ -1921,6 +1925,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer " "UMW(Youtai Semiconductor Co., Ltd.)"
@@ -1929,6 +1934,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC" "C3001973"
@@ -1937,6 +1943,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2216,6 +2223,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2291,6 +2299,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2373,6 +2382,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(instances
