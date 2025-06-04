@@ -8012,13 +8012,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 173.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 173.99 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 173.99 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8157,7 +8173,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 196.85 252.73 0)
 			(effects
 				(font
@@ -8176,6 +8192,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 196.85 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 196.85 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 196.85 252.73 0)
 			(effects
 				(font
@@ -8261,13 +8293,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 92.71 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 92.71 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 92.71 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8811,7 +8859,23 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402DR-0710KL"
+			(at 172.72 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 172.72 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 172.72 77.47 0)
 			(effects
 				(font
@@ -8964,13 +9028,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 99.06 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 99.06 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 99.06 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9183,13 +9263,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 185.42 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9328,6 +9424,22 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-071KL"
+			(at 185.42 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 185.42 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
 			(at 185.42 170.18 0)
 			(effects
 				(font
@@ -9573,6 +9685,14 @@
 				)
 			)
 		)
+		(property "Manufacturer " "Texas Instruments"
+			(at 350.52 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "8601597b-0d18-4195-9a77-05d0eba9486a")
 		)
@@ -9672,7 +9792,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 187.96 252.73 0)
 			(effects
 				(font
@@ -9691,6 +9811,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 187.96 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 187.96 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 187.96 252.73 0)
 			(effects
 				(font
@@ -9767,7 +9903,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 222.25 237.49 0)
 			(effects
 				(font
@@ -9786,6 +9922,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 222.25 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 222.25 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 222.25 237.49 0)
 			(effects
 				(font
@@ -10416,6 +10568,30 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "YAGEO"
+			(at 93.98 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60488"
+			(at 93.98 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTNO" "RC0402FR-072KL"
+			(at 93.98 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "167f9d49-6eb7-4a60-8c35-f1c6846eee5c")
 		)
@@ -10494,13 +10670,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 173.99 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 173.99 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 173.99 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10569,6 +10761,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 177.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60488"
+			(at 177.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTNO" "RC0402FR-072KL"
+			(at 177.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10649,13 +10865,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 76.2 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 76.2 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 76.2 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10802,7 +11034,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 218.44 224.79 0)
 			(effects
 				(font
@@ -10821,6 +11053,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 218.44 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 218.44 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 218.44 224.79 0)
 			(effects
 				(font
@@ -11048,13 +11296,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 242.57 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 242.57 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 242.57 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11124,7 +11388,23 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402DR-0710KL"
+			(at 172.72 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 172.72 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 172.72 161.29 0)
 			(effects
 				(font
@@ -11344,13 +11624,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 166.37 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 166.37 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 166.37 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11422,7 +11718,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 191.77 224.79 0)
 			(effects
 				(font
@@ -11441,6 +11737,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 191.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 191.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 191.77 224.79 0)
 			(effects
 				(font
@@ -11928,13 +12240,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 147.32 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 147.32 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 147.32 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12006,7 +12334,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -12025,6 +12353,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 189.23 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 189.23 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -12101,7 +12445,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 205.74 252.73 0)
 			(effects
 				(font
@@ -12120,6 +12464,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 205.74 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 205.74 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 205.74 252.73 0)
 			(effects
 				(font
@@ -12260,7 +12620,23 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402DR-0710KL"
+			(at 96.52 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 96.52 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 96.52 71.12 0)
 			(effects
 				(font
@@ -12346,13 +12722,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 185.42 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 185.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 185.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12649,13 +13041,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 99.06 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 99.06 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 99.06 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12736,13 +13144,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 228.6 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 228.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 228.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12823,13 +13247,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 318.77 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 318.77 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 318.77 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13306,13 +13746,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 40.64 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 40.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 40.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13468,13 +13924,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 152.4 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 152.4 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 152.4 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13611,7 +14083,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 215.9 237.49 0)
 			(effects
 				(font
@@ -13630,6 +14102,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 215.9 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 215.9 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 215.9 237.49 0)
 			(effects
 				(font
@@ -13889,7 +14377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myfootprints:BM1370"
+		(property "Footprint" "qaxe:BM1370"
 			(at 233.68 101.6 0)
 			(effects
 				(font
@@ -13923,6 +14411,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 217.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14093,13 +14589,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 266.7 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14303,7 +14815,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 207.01 237.49 0)
 			(effects
 				(font
@@ -14322,6 +14834,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 207.01 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 207.01 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 207.01 237.49 0)
 			(effects
 				(font
@@ -14739,13 +15267,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 147.32 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 147.32 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 147.32 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14893,13 +15437,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 204.47 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 204.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 204.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14971,7 +15531,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 215.9 265.43 0)
 			(effects
 				(font
@@ -14990,6 +15550,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 215.9 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 215.9 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 215.9 265.43 0)
 			(effects
 				(font
@@ -15150,13 +15726,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 71.12 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 71.12 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 71.12 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15237,13 +15829,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 87.63 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 87.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 87.63 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15382,7 +15990,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -15401,6 +16009,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 189.23 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 189.23 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -15486,13 +16110,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 127 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 127 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 127 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15573,13 +16213,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 99.06 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 99.06 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 99.06 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15649,7 +16305,23 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402DR-0710KL"
+			(at 262.89 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 262.89 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 262.89 77.47 0)
 			(effects
 				(font
@@ -15726,6 +16398,22 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-071KL"
+			(at 102.87 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 102.87 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
 			(at 102.87 85.09 0)
 			(effects
 				(font
@@ -15867,7 +16555,23 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402DR-0710KL"
+			(at 256.54 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 256.54 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 256.54 151.13 0)
 			(effects
 				(font
@@ -15953,13 +16657,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 161.29 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 161.29 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 161.29 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -16279,7 +16999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myfootprints:BM1370"
+		(property "Footprint" "qaxe:BM1370"
 			(at 233.68 186.69 0)
 			(effects
 				(font
@@ -16313,6 +17033,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 217.17 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -16483,13 +17211,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 242.57 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 242.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -16702,6 +17446,30 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "YAGEO"
+			(at 179.07 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60488"
+			(at 179.07 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTNO" "RC0402FR-072KL"
+			(at 179.07 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8bb33d9e-5035-4a20-b37b-3bdd04bbbfe1")
 		)
@@ -16855,13 +17623,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 205.74 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 205.74 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -16933,7 +17717,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -16952,6 +17736,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 198.12 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 198.12 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 198.12 237.49 0)
 			(effects
 				(font
@@ -17037,13 +17837,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 255.27 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 255.27 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 255.27 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -17257,13 +18073,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 121.92 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 121.92 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 121.92 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -17376,7 +18208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myfootprints:BM1370"
+		(property "Footprint" "qaxe:BM1370"
 			(at 152.4 101.6 0)
 			(effects
 				(font
@@ -17410,6 +18242,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 135.89 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -17638,7 +18478,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 222.25 265.43 0)
 			(effects
 				(font
@@ -17657,6 +18497,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 222.25 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 222.25 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 222.25 265.43 0)
 			(effects
 				(font
@@ -17876,13 +18732,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 228.6 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 228.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 228.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -17963,13 +18835,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 64.77 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 64.77 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 64.77 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -18108,7 +18996,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 220.98 252.73 0)
 			(effects
 				(font
@@ -18127,6 +19015,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 220.98 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 220.98 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 220.98 252.73 0)
 			(effects
 				(font
@@ -18411,13 +19315,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 82.55 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 82.55 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 82.55 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -18611,7 +19531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://abracon.com/Oscillators/ASDMB.pdf"
+		(property "Datasheet" ""
 			(at 67.31 57.15 0)
 			(effects
 				(font
@@ -18648,6 +19568,14 @@
 			)
 		)
 		(property "PARTNO" "SX3M25.000E20F30THN"
+			(at 59.69 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Shenzhen SCTF Elec"
 			(at 59.69 68.58 0)
 			(effects
 				(font
@@ -18805,13 +19733,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 104.14 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 104.14 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 104.14 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -19359,13 +20303,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 87.63 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 87.63 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 87.63 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -19446,13 +20406,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 129.54 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 129.54 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 129.54 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -19609,13 +20585,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 137.16 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 137.16 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 137.16 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -19763,13 +20755,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 114.3 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 114.3 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 114.3 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -19841,7 +20849,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 207.01 265.43 0)
 			(effects
 				(font
@@ -19860,6 +20868,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 207.01 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 207.01 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 207.01 265.43 0)
 			(effects
 				(font
@@ -20012,13 +21036,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 87.63 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 87.63 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 87.63 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -20099,13 +21139,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 312.42 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 312.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 312.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -20177,7 +21233,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 200.66 224.79 0)
 			(effects
 				(font
@@ -20196,6 +21252,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 200.66 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 200.66 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 200.66 224.79 0)
 			(effects
 				(font
@@ -20480,13 +21552,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 127 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 127 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 127 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -20697,13 +21785,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 110.49 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 110.49 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 110.49 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -20775,7 +21879,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 224.79 224.79 0)
 			(effects
 				(font
@@ -20794,6 +21898,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 224.79 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 224.79 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 224.79 224.79 0)
 			(effects
 				(font
@@ -20879,13 +21999,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 110.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 110.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 110.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21024,7 +22160,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 214.63 252.73 0)
 			(effects
 				(font
@@ -21043,6 +22179,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 214.63 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 214.63 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 214.63 252.73 0)
 			(effects
 				(font
@@ -21126,6 +22278,22 @@
 				)
 			)
 		)
+		(property "Manufacturer " "YAGEO"
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4a9c434-b2e6-4693-8ee4-bff959866b37")
 		)
@@ -21202,6 +22370,22 @@
 				)
 			)
 		)
+		(property "Manufacturer " "YAGEO"
+			(at 102.87 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 102.87 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "889d0ecc-e0d1-4155-a1d0-24a4185b6b79")
 		)
@@ -21271,7 +22455,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 198.12 265.43 0)
 			(effects
 				(font
@@ -21290,6 +22474,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 198.12 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 198.12 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 198.12 265.43 0)
 			(effects
 				(font
@@ -21375,13 +22575,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 266.7 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 266.7 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 266.7 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21453,7 +22669,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM188R61E106KA73D"
+		(property "PARTNO" "CL10A106MO8NQNC"
 			(at 209.55 224.79 0)
 			(effects
 				(font
@@ -21472,6 +22688,22 @@
 			)
 		)
 		(property "Voltage" ""
+			(at 209.55 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 209.55 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
 			(at 209.55 224.79 0)
 			(effects
 				(font
@@ -21557,13 +22789,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 255.27 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 255.27 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 255.27 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21644,13 +22892,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "PARTNO" "CL05A105KO5NNNC"
 			(at 161.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 161.29 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 161.29 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21754,7 +23018,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BM1370_mode1"
+		(property "Value" "BM1370"
 			(at 138.0841 130.81 0)
 			(effects
 				(font
@@ -21763,7 +23027,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myfootprints:BM1370"
+		(property "Footprint" "qaxe:BM1370"
 			(at 152.4 186.69 0)
 			(effects
 				(font
@@ -21797,6 +23061,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 135.89 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -21966,6 +23238,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 269.24 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

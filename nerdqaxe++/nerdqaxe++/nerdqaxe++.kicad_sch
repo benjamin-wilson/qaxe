@@ -1223,6 +1223,14 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 120.65 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "acc450a1-863f-4016-a794-8743574a1c5f")
 		)
@@ -1426,6 +1434,14 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 92.71 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cd15d506-2af5-47a6-9cb0-22d28db05b41")
 		)
@@ -1583,6 +1599,14 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 25.4 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "85569538-4001-4f95-a5d8-99ed0c96dddb")
 		)
@@ -1659,6 +1683,14 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 43.18 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0a4eb96b-840e-44c3-b2d4-f4d40dcf7527")
 		)
@@ -1724,6 +1756,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 110.49 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1876,6 +1916,22 @@
 			)
 		)
 		(property "PARTNO" "SMBJ12A"
+			(at 55.245 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "UMW(Youtai Semiconductor Co., Ltd.)"
+			(at 55.245 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3001973"
 			(at 55.245 58.42 0)
 			(effects
 				(font
@@ -2154,6 +2210,14 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 57.15 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "22c63f24-45f9-4da8-8240-4ee79c74f6da")
 		)
@@ -2219,6 +2283,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 77.47 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2293,6 +2365,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 85.09 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(instances

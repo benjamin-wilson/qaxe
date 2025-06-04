@@ -5452,13 +5452,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 253.365 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5513,7 +5529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf"
+		(property "Datasheet" ""
 			(at 266.065 150.241 0)
 			(effects
 				(font
@@ -5550,6 +5566,14 @@
 			)
 		)
 		(property "PARTNO" "0470531000"
+			(at 266.065 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 266.065 150.495 0)
 			(effects
 				(font
@@ -5716,6 +5740,14 @@
 			)
 		)
 		(property "PARTNO" "TMP1075NDRLR"
+			(at 225.425 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "	 Texas Instruments"
 			(at 225.425 56.515 0)
 			(effects
 				(font
@@ -5946,13 +5978,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 253.365 55.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6033,13 +6081,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 192.405 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6177,6 +6241,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138017"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTNO" "RC0402FR-072K7L"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6605,6 +6693,14 @@
 				)
 			)
 		)
+		(property "Manufacturer " "	 Texas Instruments"
+			(at 225.425 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e2c56c0-0252-418e-ab14-e9a12ee5274d")
 		)
@@ -6692,6 +6788,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 144.145 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6989,6 +7093,14 @@
 				)
 			)
 		)
+		(property "Manufacturer " ""
+			(at 27.94 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "8a294018-4d3d-4d92-ae93-c1e7ec5f5dfc")
 		)
@@ -7158,6 +7270,14 @@
 				)
 			)
 		)
+		(property "Manufacturer " "Microchip Tech"
+			(at 159.385 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "2b16711d-459d-4130-8a94-e2c19146ee65")
 		)
@@ -7270,7 +7390,15 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "PH1-12-UA"
+		(property "PARTNO" ""
+			(at 60.325 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 60.325 190.5 0)
 			(effects
 				(font
@@ -7397,6 +7525,14 @@
 			)
 		)
 		(property "PARTNO" "61301211821"
+			(at 27.94 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 27.94 181.61 0)
 			(effects
 				(font
@@ -7904,7 +8040,23 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402DR-0710KL"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C471764"
 			(at 83.185 75.565 0)
 			(effects
 				(font
@@ -8096,7 +8248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf"
+		(property "Datasheet" ""
 			(at 266.065 119.761 0)
 			(effects
 				(font
@@ -8133,6 +8285,14 @@
 			)
 		)
 		(property "PARTNO" "0470531000"
+			(at 266.065 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 266.065 120.015 0)
 			(effects
 				(font
@@ -8357,13 +8517,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 144.145 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8549,7 +8725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf"
+		(property "Datasheet" ""
 			(at 109.855 99.695 0)
 			(effects
 				(font
@@ -8604,6 +8780,14 @@
 			)
 		)
 		(property "PARTNO" "1N5819HWQ-7-F"
+			(at 109.855 99.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " "Diodes Incorporated"
 			(at 109.855 99.695 0)
 			(effects
 				(font
@@ -8972,6 +9156,14 @@
 				)
 			)
 		)
+		(property "Manufacturer " "Texas Instruments"
+			(at 210.185 133.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "53bd067d-d0a8-45ca-bf7a-f7cedc3d1967")
 		)
@@ -9260,6 +9452,30 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "YAGEO"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138017"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTNO" "RC0402FR-072K7L"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "26e33d0e-e5bb-4996-89c5-4e7ba61ef4ab")
 		)
@@ -9470,13 +9686,29 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "PARTNO" "CC0402KRX7R7BB104"
 			(at 200.025 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60474"
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9567,7 +9799,15 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "PH1-12-UA"
+		(property "PARTNO" ""
+			(at 60.325 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer " ""
 			(at 60.325 181.61 0)
 			(effects
 				(font
