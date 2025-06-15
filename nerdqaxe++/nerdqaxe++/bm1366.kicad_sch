@@ -135,264 +135,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x06"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x06"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x06_1_1"
-				(rectangle
-					(start -1.27 6.35)
-					(end 1.27 -8.89)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1304,104 +1046,6 @@
 				)
 			)
 			(symbol "GND_5_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "GND_8"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "GND_8"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "GND_8_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "GND_8_1_1"
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
@@ -4490,16 +4134,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 238.76) (xy 264.16 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21335347-57f0-44d2-ad3c-eef7a774dea9")
-	)
-	(wire
-		(pts
 			(xy 234.95 143.51) (xy 237.49 143.51)
 		)
 		(stroke
@@ -5317,16 +4951,6 @@
 			(type default)
 		)
 		(uuid "54eead0a-dda4-4954-8bee-b2085b9c83e8")
-	)
-	(wire
-		(pts
-			(xy 262.89 248.92) (xy 264.16 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57837769-f06f-4dbf-b0a3-442bdb5b0768")
 	)
 	(wire
 		(pts
@@ -6430,16 +6054,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 250.19) (xy 262.89 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4f67310-943b-432e-9f52-4c7080c23b03")
-	)
-	(wire
-		(pts
 			(xy 135.89 127) (xy 143.51 127)
 		)
 		(stroke
@@ -6667,16 +6281,6 @@
 			(type default)
 		)
 		(uuid "b5815ddb-5cd4-499c-aef0-fb82fc2304f6")
-	)
-	(wire
-		(pts
-			(xy 254 246.38) (xy 264.16 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5d7f3a1-c7a2-4daa-b231-3499e4e0e63d")
 	)
 	(wire
 		(pts
@@ -7140,16 +6744,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 241.3) (xy 264.16 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d087895b-73d1-4931-aac6-e46807e66fdf")
-	)
-	(wire
-		(pts
 			(xy 234.95 81.28) (xy 237.49 81.28)
 		)
 		(stroke
@@ -7487,16 +7081,6 @@
 			(type default)
 		)
 		(uuid "e658f82a-597b-4884-af93-7e7648212252")
-	)
-	(wire
-		(pts
-			(xy 261.62 236.22) (xy 264.16 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e66c275b-d389-49df-9e10-6bdac8f10b2b")
 	)
 	(wire
 		(pts
@@ -7890,16 +7474,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 243.84) (xy 264.16 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa523fc3-0348-4c79-9e71-74d3dd442dba")
-	)
-	(wire
-		(pts
 			(xy 80.01 58.42) (xy 80.01 41.91)
 		)
 		(stroke
@@ -8038,16 +7612,6 @@
 		)
 		(uuid "4b1d5cb2-6c20-4365-8d85-d91dafbc6f11")
 	)
-	(label "RST_N"
-		(at 261.62 241.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5c26cafe-142c-47bb-86f6-dbd3c86953d3")
-	)
 	(label "RO"
 		(at 101.6 66.04 0)
 		(effects
@@ -8057,16 +7621,6 @@
 			(justify left bottom)
 		)
 		(uuid "6d3c3373-1806-43e9-93f2-7c2f3ee43cb6")
-	)
-	(label "CI"
-		(at 260.35 246.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "761c9a45-399f-4dde-b7dc-47a218268716")
 	)
 	(label "CLKI"
 		(at 101.6 68.58 0)
@@ -8117,16 +7671,6 @@
 			(justify left bottom)
 		)
 		(uuid "ab5d6dd4-6707-4b8d-9936-35f31156c8f8")
-	)
-	(label "RO"
-		(at 261.62 243.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "abf9e7b3-4ed6-45b3-aadf-0a05050212bb")
 	)
 	(label "BI"
 		(at 101.6 71.12 0)
@@ -8328,6 +7872,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -8384,7 +7929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 173.99 127 0)
 			(effects
 				(font
@@ -8500,6 +8045,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -8613,6 +8159,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -8669,7 +8216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 92.71 203.2 0)
 			(effects
 				(font
@@ -8845,71 +8392,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V2")
-		(at 261.62 236.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0feac770-1a84-4f36-b998-9e1e881b80ed")
-		(property "Reference" "#PWR0190"
-			(at 265.43 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+1V2"
-			(at 258.064 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V2\""
-			(at 261.62 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f5abcee3-3ed3-4fec-8945-955ce6f97a11")
-		)
-		(instances
-			(project "nerdqaxe++"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-					(reference "#PWR0190")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 217.17 181.61 0)
 		(mirror y)
@@ -9059,6 +8541,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "SN74AVC4T774"
@@ -9113,6 +8596,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "	 Texas Instruments"
+			(at 351.79 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "16"
@@ -9257,6 +8748,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -9419,6 +8911,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -9475,7 +8968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 99.06 127 0)
 			(effects
 				(font
@@ -9656,6 +9149,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -9712,7 +9206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 185.42 41.91 0)
 			(effects
 				(font
@@ -9828,6 +9322,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "1k"
@@ -10066,6 +9561,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -10179,6 +9675,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -10913,6 +10410,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "2k"
@@ -11008,6 +10506,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -11064,7 +10563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 173.99 41.91 0)
 			(effects
 				(font
@@ -11113,6 +10612,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "2k"
@@ -11208,6 +10708,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -11264,7 +10765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 76.2 203.2 0)
 			(effects
 				(font
@@ -11388,6 +10889,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -11643,6 +11145,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -11699,7 +11202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 242.57 127 0)
 			(effects
 				(font
@@ -11747,6 +11250,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -11976,6 +11480,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -12032,7 +11537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 166.37 203.2 0)
 			(effects
 				(font
@@ -12081,6 +11586,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -12596,6 +12102,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -12652,7 +12159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 147.32 127 0)
 			(effects
 				(font
@@ -12701,6 +12208,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -12814,6 +12322,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -12926,6 +12435,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -13021,6 +12531,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -13077,7 +12588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 185.42 127 0)
 			(effects
 				(font
@@ -13276,6 +12787,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -13332,7 +12844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 99.06 203.2 0)
 			(effects
 				(font
@@ -13381,6 +12893,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -13437,7 +12950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 228.6 41.91 0)
 			(effects
 				(font
@@ -13882,6 +13395,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "100nF"
@@ -14062,6 +13576,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -14118,7 +13633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 152.4 203.2 0)
 			(effects
 				(font
@@ -14232,6 +13747,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -14622,6 +14138,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "BM1370_mode1"
@@ -14799,6 +14316,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -14855,7 +14373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 266.7 127 0)
 			(effects
 				(font
@@ -15036,6 +14554,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -15547,6 +15066,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -15603,7 +15123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 147.32 41.91 0)
 			(effects
 				(font
@@ -15652,6 +15172,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -15708,7 +15229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 204.47 41.91 0)
 			(effects
 				(font
@@ -15757,6 +15278,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -15945,6 +15467,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -16001,7 +15524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 71.12 203.2 0)
 			(effects
 				(font
@@ -16050,6 +15573,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -16106,7 +15630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 87.63 203.2 0)
 			(effects
 				(font
@@ -16156,6 +15680,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "0.1uF"
@@ -16243,6 +15768,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -16356,6 +15882,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -16412,7 +15939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 127 127 0)
 			(effects
 				(font
@@ -16461,6 +15988,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -16517,7 +16045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 99.06 41.91 0)
 			(effects
 				(font
@@ -16565,6 +16093,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -16660,6 +16189,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "1k"
@@ -16821,6 +16351,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -16916,6 +16447,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -16972,7 +16504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 161.29 127 0)
 			(effects
 				(font
@@ -17206,81 +16738,6 @@
 		)
 	)
 	(symbol
-		(lib_id "mylib7:+0V8")
-		(at 261.62 238.76 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "93044b8d-e6a5-416d-9927-b7a18e46f1ef")
-		(property "Reference" "#U031"
-			(at 260.35 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+0V8"
-			(at 253.365 238.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 261.62 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "-"
-			(at 261.62 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a041555d-eaaa-465a-9358-6eb5df5e76e4")
-		)
-		(instances
-			(project "nerdqaxe++"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-					(reference "#U031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "mylib7:BM1368_mode1")
 		(at 217.17 153.67 0)
 		(unit 1)
@@ -17296,6 +16753,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "BM1370_mode1"
@@ -17473,6 +16931,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -17529,7 +16988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -17720,6 +17179,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "2k"
@@ -17890,6 +17350,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -17946,7 +17407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 205.74 127 0)
 			(effects
 				(font
@@ -17995,6 +17456,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -18108,6 +17570,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -18164,7 +17627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 255.27 127 0)
 			(effects
 				(font
@@ -18346,6 +17809,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -18402,7 +17866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 121.92 203.2 0)
 			(effects
 				(font
@@ -18436,73 +17900,6 @@
 		)
 	)
 	(symbol
-		(lib_name "GND_8")
-		(lib_id "power:GND")
-		(at 262.89 250.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aa39b53e-589e-4cea-86b5-bdb83951cac5")
-		(property "Reference" "#PWR0191"
-			(at 262.89 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 262.89 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 262.89 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 262.89 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 262.89 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab384550-85c1-40d1-ad4d-75284d039f77")
-		)
-		(instances
-			(project "nerdqaxe++"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-					(reference "#PWR0191")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "mylib7:BM1368_mode1")
 		(at 135.89 68.58 0)
 		(unit 1)
@@ -18519,6 +17916,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "BM1370_mode1"
@@ -18696,6 +18094,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -18943,6 +18342,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -18999,7 +18399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 228.6 127 0)
 			(effects
 				(font
@@ -19048,6 +18448,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -19104,7 +18505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 64.77 203.2 0)
 			(effects
 				(font
@@ -19220,6 +18621,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -19532,6 +18934,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -19588,7 +18991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 82.55 203.2 0)
 			(effects
 				(font
@@ -19778,6 +19181,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "25MHz"
@@ -19954,6 +19358,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -20010,7 +19415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 104.14 203.2 0)
 			(effects
 				(font
@@ -20392,6 +19797,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "20k"
@@ -20446,6 +19852,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer " "YAGEO"
+			(at 335.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -20613,6 +20027,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -20669,7 +20084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 87.63 127 0)
 			(effects
 				(font
@@ -20718,6 +20133,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -20774,7 +20190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 129.54 203.2 0)
 			(effects
 				(font
@@ -20965,6 +20381,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -21021,7 +20438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 137.16 203.2 0)
 			(effects
 				(font
@@ -21137,6 +20554,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -21193,7 +20611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 114.3 203.2 0)
 			(effects
 				(font
@@ -21242,6 +20660,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -21422,6 +20841,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -21478,7 +20898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 87.63 41.91 0)
 			(effects
 				(font
@@ -21527,6 +20947,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -21839,6 +21260,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -21895,7 +21317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 127 41.91 0)
 			(effects
 				(font
@@ -22074,6 +21496,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "0.1uF"
@@ -22161,6 +21584,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -22217,7 +21641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 110.49 41.91 0)
 			(effects
 				(font
@@ -22266,6 +21690,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -22379,6 +21804,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -22435,7 +21861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 110.49 127 0)
 			(effects
 				(font
@@ -22484,6 +21910,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -22597,6 +22024,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "1k"
@@ -22692,6 +22120,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "1k"
@@ -22787,6 +22216,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -22900,6 +22330,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -22956,7 +22387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 266.7 41.91 0)
 			(effects
 				(font
@@ -23072,6 +22503,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -23185,6 +22617,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -23241,7 +22674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 255.27 41.91 0)
 			(effects
 				(font
@@ -23290,6 +22723,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -23346,7 +22780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 161.29 41.91 0)
 			(effects
 				(font
@@ -23463,6 +22897,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "BM1370"
@@ -23619,106 +23054,6 @@
 			(project "nerdqaxe++"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
 					(reference "U20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x06")
-		(at 269.24 241.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "f907cf8f-5112-477c-9572-43034eaf2795")
-		(property "Reference" "J2"
-			(at 271.78 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x06"
-			(at 271.78 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical"
-			(at 269.24 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 269.24 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 269.24 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "-"
-			(at 269.24 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer " ""
-			(at 269.24 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bcd64621-4fc8-442d-a4a1-0d1fc4f682b0")
-		)
-		(pin "2"
-			(uuid "af2f2f9d-c9d4-42e6-8c80-2da433b21b9b")
-		)
-		(pin "3"
-			(uuid "d9b4ebe9-1222-4530-a745-a61f39cdd0ae")
-		)
-		(pin "4"
-			(uuid "f18aa661-08d2-4530-9a06-e4a161d7f89c")
-		)
-		(pin "5"
-			(uuid "4e5d4cda-f2d3-4409-81bf-596322f4f4fc")
-		)
-		(pin "6"
-			(uuid "ae37129f-056f-44e2-ba8d-d7aca0340317")
-		)
-		(instances
-			(project "nerdqaxe++"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-					(reference "J2")
 					(unit 1)
 				)
 			)

@@ -1185,6 +1185,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "MountingHole_Pad"
@@ -1397,6 +1398,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "MountingHole_Pad"
@@ -1537,6 +1539,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "XT30"
@@ -1648,6 +1651,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "MountingHole_Pad"
@@ -1724,6 +1728,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "MountingHole_Pad"
@@ -1864,6 +1869,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "5KPxxA"
@@ -1874,7 +1880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_P600_R-6_P20.00mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 50.165 58.42 0)
 			(effects
 				(font
@@ -2179,6 +2185,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "MountingHole_Pad"
@@ -2255,6 +2262,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "MountingHole_Pad"
@@ -2330,6 +2338,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "~"

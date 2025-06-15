@@ -7666,17 +7666,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 125.095) (xy 196.85 125.095)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a74251eb-f749-485c-b147-a345937da425")
-	)
-	(wire
-		(pts
-			(xy 186.69 125.095) (xy 187.96 125.095)
+			(xy 186.69 125.095) (xy 196.85 125.095)
 		)
 		(stroke
 			(width 0)
@@ -9341,6 +9331,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -9656,6 +9647,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "1nF"
@@ -9770,6 +9762,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -9951,6 +9944,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -10047,6 +10041,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -10104,7 +10099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 215.265 263.525 0)
 			(effects
 				(font
@@ -10221,6 +10216,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "12pF"
@@ -10534,6 +10530,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "TPS53647"
@@ -10744,6 +10741,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -10926,6 +10924,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -11040,6 +11039,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -11222,6 +11222,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -11317,6 +11318,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "100k"
@@ -11478,6 +11480,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Value" "220µF"
@@ -11659,6 +11662,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
@@ -11745,6 +11749,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "8.06k"
@@ -11800,7 +11805,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "PARTNO" "RC0402FR-078K06L"
 			(at 111.76 147.955 0)
 			(effects
 				(font
@@ -11840,6 +11845,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -12088,6 +12094,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "220µF"
@@ -12202,6 +12209,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -12384,6 +12392,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -12616,6 +12625,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "40.2k"
@@ -12712,6 +12722,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "TPSM82901SISR"
@@ -12751,7 +12762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "	 Texas Instruments"
 			(at 260.35 193.04 0)
 			(effects
 				(font
@@ -12884,6 +12895,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -13132,6 +13144,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -13245,6 +13258,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "16.5k"
@@ -13340,6 +13354,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -13587,6 +13602,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -13702,6 +13718,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "1nF"
@@ -13816,6 +13833,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -14064,6 +14082,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -14129,7 +14148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 129.54 161.925 0)
 			(effects
 				(font
@@ -14179,6 +14198,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "Conn_01x01"
@@ -14280,6 +14300,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "2.2R"
@@ -14344,7 +14365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " "	 Texas Instruments"
+		(property "Manufacturer " "Texas Instruments"
 			(at 160.02 147.955 0)
 			(effects
 				(font
@@ -14451,6 +14472,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "22pF"
@@ -14681,6 +14703,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "22pF"
@@ -15045,6 +15068,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "10µF"
@@ -15168,6 +15192,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "100R"
@@ -15263,6 +15288,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -15378,6 +15404,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "1nF"
@@ -15492,6 +15519,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "100nF"
@@ -15597,6 +15625,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -15778,6 +15807,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "4.7µF"
@@ -16025,6 +16055,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "330nF"
@@ -16139,6 +16170,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "MCP1824T-0802E"
@@ -16260,6 +16292,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "MCP1824T-1202E"
@@ -16434,92 +16467,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 191.77 125.095 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "9ef3570a-e88f-4ef2-b391-5b6b296334d1")
-		(property "Reference" "JP2"
-			(at 191.77 122.809 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 191.77 121.285 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 191.77 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 191.77 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 191.77 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "-"
-			(at 191.77 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer " ""
-			(at 191.77 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b2ad1f07-8adf-4d57-a310-21019ab776b2")
-		)
-		(pin "1"
-			(uuid "67285262-da5c-4a20-b19c-6ed04408eedf")
-		)
-		(instances
-			(project "nerdqaxe++"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 179.705 262.255 0)
 		(unit 1)
@@ -16535,6 +16482,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "100nF"
@@ -16640,6 +16588,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -16697,7 +16646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 273.685 263.525 0)
 			(effects
 				(font
@@ -16746,6 +16695,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -16860,6 +16810,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -17042,6 +16993,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "76.8k"
@@ -17138,6 +17090,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -17251,6 +17204,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "24.3k"
@@ -17346,6 +17300,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -17527,6 +17482,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "22pF"
@@ -17689,6 +17645,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -17804,6 +17761,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "Conn_01x01"
@@ -17905,6 +17863,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "66.5k"
@@ -18135,6 +18094,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "2.2nF"
@@ -18316,6 +18276,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "100R"
@@ -18544,6 +18505,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "10k"
@@ -18639,6 +18601,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -18819,6 +18782,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -18933,6 +18897,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "10µF"
@@ -19057,6 +19022,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -19354,6 +19320,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "2.55k"
@@ -19449,6 +19416,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "10uF"
@@ -20029,6 +19997,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "121k"
@@ -20455,6 +20424,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -20702,6 +20672,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -20816,6 +20787,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -20930,6 +20902,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -21043,6 +21016,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "2.2R"
@@ -21107,7 +21081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " "	 Texas Instruments"
+		(property "Manufacturer " "Texas Instruments"
 			(at 160.02 145.415 0)
 			(effects
 				(font
@@ -21147,6 +21121,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "100µF"
@@ -21328,6 +21303,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "1µF"
@@ -21393,7 +21369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer " ""
+		(property "Manufacturer " "Samsung Electro-Mechanics"
 			(at 139.7 161.925 0)
 			(effects
 				(font
@@ -21443,6 +21419,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "1nF"
