@@ -12733,7 +12733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "uSIP11_SIS_TEX"
+		(property "Footprint" "qaxe:TPSM82901"
 			(at 260.35 193.04 0)
 			(effects
 				(font
