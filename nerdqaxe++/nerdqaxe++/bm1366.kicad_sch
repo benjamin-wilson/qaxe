@@ -7563,14 +7563,14 @@
 		(uuid "ff7a40b6-ca82-4c6d-a4ff-eb61fc4b45d5")
 	)
 	(label "CI"
-		(at 337.82 134.62 180)
+		(at 337.82 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "1a1925ad-8604-426e-a66b-84703bdd91ec")
+		(uuid "2ff05b88-610d-4cb0-a903-fc9195c15690")
 	)
 	(label "RXD"
 		(at 365.76 129.54 0)
@@ -7581,6 +7581,16 @@
 			(justify left bottom)
 		)
 		(uuid "4b1d5cb2-6c20-4365-8d85-d91dafbc6f11")
+	)
+	(label "RST_N"
+		(at 337.82 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5d93acb3-1879-47d2-b4bb-556c7e17bb55")
 	)
 	(label "RO"
 		(at 101.6 66.04 0)
@@ -7691,16 +7701,6 @@
 			(justify left bottom)
 		)
 		(uuid "dcff9d0c-2a68-46d8-98a5-e2d23e6331d6")
-	)
-	(label "RST_N"
-		(at 337.82 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ee104a2d-2419-4122-92ae-8b4ed5f37868")
 	)
 	(hierarchical_label "+3V3"
 		(shape input)
