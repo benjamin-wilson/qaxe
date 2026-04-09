@@ -20644,7 +20644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bitaxe:BQB0016A-MFG"
+		(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
 			(at 468.122 242.57 0)
 			(hide yes)
 			(show_name no)
